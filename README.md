@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jejeet
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on interesting websites
 - 📫 How to reach me owonikokoadewunmi@gmail.com
 
