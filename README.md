@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jejeet
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJ
+- 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on ecommerce websites
 - 📫 How to reach me owonikokoadewumi01@gmail.com
 
